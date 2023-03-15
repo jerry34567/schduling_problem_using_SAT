@@ -20,6 +20,7 @@ then type
 ```
 
 the data in the ```data.txt``` must match the format below 
+
 (1) the first line is the number of interviewers
 
 (2) the second line is the number of interviewees
