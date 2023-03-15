@@ -3,3 +3,6 @@ gen: gen_data.o
 
 gen_data.o: gen_data.cpp
 	g++ -c -std=c++11 -g gen_data.cpp
+
+clean: 
+	rm -rf *.o gen
